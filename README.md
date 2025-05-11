@@ -110,5 +110,5 @@ These values are expected at early stages of training. Visual results demonstrat
 
 ## Notes
 
-- Dataset used: ~6,000 images for training, ~350 for validation
+- Dataset used: ~67,500 images for training, ~35 for validation
 - Early stage results still provide recognizable super-resolved images
